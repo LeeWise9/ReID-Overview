@@ -78,3 +78,4 @@ This is a review of Person Re-identification
 
 [28] Qian X, Fu Y, Wang W, et al. Pose-Normalized Image Generation for Person Re-identification[J]. arXiv preprint arXiv:1712.02225, 2017.
 
+
